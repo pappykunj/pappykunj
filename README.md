@@ -1,5 +1,9 @@
-## Hi, It's Angela 👋
+## Hi 👋, Myself Angela Maria Gigi
+
 ### Welcome to my World 🤗
+
+- 🌱 I’m currently learning **Django, Kotlin**
+- 📫 How to reach me **angelamariagigi@gmail.com**
 
 <!--
 **pappykunj/pappykunj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
