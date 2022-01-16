@@ -2,7 +2,6 @@
 
 ### Welcome to my World 🤗
 
-- 🌱 I’m currently learning **Django, Kotlin**
 - 📫 How to reach me **angelamariagigi@gmail.com**
 
 <!--
