@@ -2,7 +2,9 @@
 
 ### Welcome to my World 🤗
 
-- 📫 How to reach me **angelamariagigi@gmail.com**
+- 📫 How to reach me... **angelamariagigi@gmail.com**
+- - 🔭 I’m currently working on ... **Automated Hydroponics**
+- 🌱 I’m currently learning ... **Vue**
 
 <!--
 **pappykunj/pappykunj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
