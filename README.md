@@ -2,7 +2,7 @@
 
 ### Welcome to my World 🤗
 
-- 📫 How to reach me... **angelamariagigi@gmail.com**
+- 📫 How to reach me ... **angelamariagigi@gmail.com**
 -  🔭 I’m currently working on ... **Automated Hydroponics**
 - 🌱 I’m currently learning ... **Vue**
 
