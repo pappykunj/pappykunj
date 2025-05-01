@@ -2,10 +2,10 @@
 
 ### Welcome to my World 🤗
 
-- 📫 How to reach me ... **angelamariagigi@gmail.com**
--  🔭 I’m currently working on ... **Automated Hydroponics**
-- 🌱 I’m currently learning ... **Vue**
-
+- 📫 How to reach me: **angelamariagigi@gmail.com**
+-  🔭 I’m currently working on ... **Unity 3D Hyper-casual games**
+- 🌱 I’m currently learning ... **Unity 3D, Vue, React Js**
+- ⚡ Fun fact: **I’m a software engineer with experience in Unity and Firebase, and I’ve ported games between PC and Android while implementing full-stack features like real-time AI and deep linking!**
 <!--
 **pappykunj/pappykunj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
